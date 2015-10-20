@@ -1,1 +1,2 @@
 Esse é o conteúdo do arquivo.
+Ao adicionar mais conteúdo, os novos dados são exibidos no aplicativo, indicando as modificações.
